@@ -36,8 +36,7 @@ export const collectionTitle =
 export const collectionDescription =
   process.env.NEXT_PUBLIC_COLLECTION_DESCRIPTION || "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.";
 
-export const tokenType =
-  process.env.NEXT_PUBLIC_TOKEN_TYPE || "Token";
+export const tokenType = "POPT";
 
 export const websiteURL =
   process.env.NEXT_PUBLIC_WEBSITE_URL || "#";
