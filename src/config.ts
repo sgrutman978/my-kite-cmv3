@@ -28,7 +28,7 @@ export const whitelistedWallets = [
 ];
 
 export const collectionImageURL =
-  process.env.NEXT_PUBLIC_COLLECTION_IMAGE_URL || "https://images.pexels.com/photos/2832432/pexels-photo-2832432.png";
+  process.env.NEXT_PUBLIC_COLLECTION_IMAGE_URL || "https://arweave.net/j28zPfw1jgKEkX_euLXFWUvgkYXBcNyl-I_KuCRQPR4?ext=png";
 
 export const collectionTitle =
   process.env.NEXT_PUBLIC_COLLECTION_TITLE || "Collection Name";
