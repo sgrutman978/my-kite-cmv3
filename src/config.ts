@@ -33,8 +33,8 @@ export const collectionImageURL = "https://arweave.net/j28zPfw1jgKEkX_euLXFWUvgk
 export const collectionTitle =
   process.env.NEXT_PUBLIC_COLLECTION_TITLE || "Collection Name";
 
-export const collectionDescription =
-  process.env.NEXT_PUBLIC_COLLECTION_DESCRIPTION || "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.";
+  // process.env.NEXT_PUBLIC_COLLECTION_DESCRIPTION || 
+export const collectionDescription = "Mint more controlelrs to earn more POPT while playing mobile POP Games like Speed Square! Visit https://popgames.net for more details.";
 
 export const tokenType = "POPT";
 
