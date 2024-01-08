@@ -27,8 +27,8 @@ export const whitelistedWallets = [
   "sTAKERL4U8fbn2nUte6rPVdcrz2z3fEh1adQEDrGULr",
 ];
 
-export const collectionImageURL =
-  process.env.NEXT_PUBLIC_COLLECTION_IMAGE_URL || "https://arweave.net/j28zPfw1jgKEkX_euLXFWUvgkYXBcNyl-I_KuCRQPR4?ext=png";
+//process.env.NEXT_PUBLIC_COLLECTION_IMAGE_URL ||
+export const collectionImageURL = "https://arweave.net/j28zPfw1jgKEkX_euLXFWUvgkYXBcNyl-I_KuCRQPR4?ext=png";
 
 export const collectionTitle =
   process.env.NEXT_PUBLIC_COLLECTION_TITLE || "Collection Name";
