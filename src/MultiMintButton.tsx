@@ -203,8 +203,8 @@ export const MultiMintButton = ({
         (prices.payment
           .filter(({ kind }) => kind === "sol")
           .reduce((a, { price }) => a + price, 0) +
-          0.012)
-        : 0.012,
+          0.021)
+        : 0.021,
     [mintCount, prices]
   );
   const totalTokenCosts = useMemo((): PaymentRequired[] => {
