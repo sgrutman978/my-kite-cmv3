@@ -28,7 +28,8 @@ export const whitelistedWallets = [
 ];
 
 //process.env.NEXT_PUBLIC_COLLECTION_IMAGE_URL ||
-export const collectionImageURL = "https://arweave.net/j28zPfw1jgKEkX_euLXFWUvgkYXBcNyl-I_KuCRQPR4?ext=png";
+export const collectionImageURL = "https://arweave.net/_VwEn_aDTgY_DrFflX3xsGbk90XYSLtDsmg2NE0iAoM?ext=png";
+//"https://arweave.net/j28zPfw1jgKEkX_euLXFWUvgkYXBcNyl-I_KuCRQPR4?ext=png";
 
 export const collectionTitle =
   process.env.NEXT_PUBLIC_COLLECTION_TITLE || "Collection Name";
